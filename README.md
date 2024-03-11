@@ -4,9 +4,15 @@ Monthly member contributions markdown files
 ANY MEMBER CAN UPDATE THIS REPOSITORY.
 
 ## Purpose of this Repository
+
+The content of the monthly markdown will be merged into the Plebnet.dev website every month. 
+
+Any member can update this file. 
+
 The purpose of this repository is to allow people who are unfamiliar with markdown
 to practice directly in the browser. No need to understand git, only need to use the 
 web interface for updating the member contributions every month. 
+
 
 Use the following naming scheme so the ordering is easier to follow: 
 
