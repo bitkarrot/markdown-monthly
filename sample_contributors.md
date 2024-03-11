@@ -21,7 +21,6 @@ pull request and we'll be sure to include it here!
 - Add items here
 - and so on......
 
-I want to undo the edit so i can come back here and undo it anytime. 
 Just click "Commit changes" to save your data. If its not correct, its 
 okay just come back and edit and click on "commit changes" to save your
 content 
