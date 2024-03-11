@@ -1,7 +1,9 @@
 # Markdown-monthly
 Monthly member contributions markdown files
 
+```
 ANY MEMBER CAN UPDATE THIS REPOSITORY.
+```
 
 ## Purpose of this Repository
 
