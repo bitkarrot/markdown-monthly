@@ -6,6 +6,8 @@ Edit the markdown file in EDIT, the Preview in PREVIEW. If you are not sure
 how to use markdown, use [dillinger editor](https://dillinger.io/) and
 follow the markdown guide [here](https://www.markdownguide.org/)
 
+You can edit this file to test your markdown before committing to the real thing. 
+
 ## About this post
 
 In no particular order, let's celebrate all the member contributions from Plebnet.DEV 
