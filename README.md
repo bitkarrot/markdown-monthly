@@ -6,6 +6,15 @@ The purpose of this repository is to allow people who are unfamiliar with markdo
 to practice directly in the browser. No need to understand git, only need to use the 
 web interface for updating the member contributions every month. 
 
+Use the following naming scheme so the ordering is easier to follow: 
+
+`YEAR_MONTH_contributors.md`
+
+E.g. For February 2024, the filename is 2024_02_contributors.md
+
+For December 2024, the file name is 2024_12_contributors.md
+
+
 ## Closing date
 The last week of the following month will be the final date for edits for the previous month.
 What this means: If you are working on February member contributions, the last date before the 
