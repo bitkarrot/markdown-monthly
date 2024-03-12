@@ -12,7 +12,7 @@ pull request and we'll be sure to include it here!
 
 - ZBD wallet integration into LNBits merged into dev branch. [PR](https://github.com/lnbits/lnbits/pull/2235)
 - Blink.sv wallet integration into LNBits in progress. [PR](https://github.com/lnbits/lnbits/pull/2270)
-- Core lightning Docs in progress. [PR](https://github.com/ElementsProject/lightning/pull/7041)
+- Core lightning Docs in progress, ETA v24.05. [PR](https://github.com/ElementsProject/lightning/pull/7041)
 - Revise front page of plebnet.dev website to be more informative. [PR](https://github.com/plebnet-dev/website/commit/5ed198e0467bdc78d576f850fd65625e9a5e967a)
 
 ### Randy McMillian
