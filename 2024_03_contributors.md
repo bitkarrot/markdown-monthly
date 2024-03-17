@@ -9,4 +9,9 @@ mentioned on this monthly blog post. If you contributed and we missed it, please
 pull request and we'll be sure to include it here!
 
 ### Bitkarrot
-- created markdown monthly 
+- created markdown monthly
+- Add FOSS (coauthored with ecurrencyhodler) and Testnet Demo Blog posts to website [PR](https://github.com/plebnet-dev/website/pull/112)
+
+### EcurrencyHodler
+- coauthored FOSS blog post with bitkarrot
+
