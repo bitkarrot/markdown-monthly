@@ -15,3 +15,5 @@ pull request and we'll be sure to include it here!
 - help migrate existing website to new astrov4 plebnet [web](https://github.com/plebnet-dev/web)
 - refactor [BountyAlertsDiscord](https://github.com/plebnet-dev/BountyAlertsDiscord) repo for stakwork automated new bounty posts. 
 
+### Surfersol
+- collected open source contributions and compiled this list.
