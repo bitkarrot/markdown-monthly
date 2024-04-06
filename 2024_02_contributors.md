@@ -4,12 +4,6 @@
 
 In no particular order, let's celebrate all the member contributions from Plebnet.DEV to open source software! Contributions are collected by a moderator in the discord every month so be sure to reach out to them before the monthly meetup if you would like to be mentioned on this monthly blog post. If you contributed and we missed it, please make a pull request and we'll be sure to include it here!
 
-# Plebnet.dev events / workshops
-
-### BitcOinDad (moderator)
-Python Blitz: Code and Conquer Weekly (Weekly Event)
-Chill and Chat (Bi-Weekly Event)
-
 # Member Contributions for February 2024
 
 ### Sync
@@ -24,8 +18,9 @@ Chill and Chat (Bi-Weekly Event)
 - Working on [plebnet-compose](https://github.com/Bitc0indad/plebnet-compose)
 - Working on [bitcoin_transcripts] (https://github.com/bitcointranscripts/bitcointranscripts)
 - Working on [Bounty_Alerts_Discord](https://github.com/plebnet-dev/BountyAlertsDiscord)
+- Moderator - Python Blitz and Chill and Chat
 
-### BlogginBitcoin
+### BloggingBitcoin
 - Worked on [added black and white png files for zbd](https://github.com/lnbits/lnbits/pull/2256)
 
 ### msgilligan
