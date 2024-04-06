@@ -59,5 +59,7 @@ In no particular order, let's celebrate all the member contributions from Plebne
 ### bitkarrot
 - Merged [update site content](https://github.com/plebnet-dev/website/pull/108)
 
+### Surfersol
+- collected open source contributions and compiled this list.
 
 
