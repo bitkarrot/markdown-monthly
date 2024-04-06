@@ -5,8 +5,6 @@
 
 In no particular order, let's celebrate all the member contributions from Plebnet.DEV to open source software! Contributions are collected by a moderator in the discord every month so be sure to reach out to them before the monthly meetup if you would like to be mentioned on this monthly blog post. If you contributed and we missed it, please make a pull request and we'll be sure to include it here!
 
-# Member Contributions for March 2024
-
 ### XenonFun / rsafier
 - Worked on [LNUnit](https://github.com/nbd-wtf/LNUnit) is a unit-testing framework for Bitcoin Lightning network systems. It provides an easy-to-use interface for developers to write tests that check the functionality and performance of their Lightning network applications. 
 - Worked on [nlightning](https://github.com/ipms-io/nlightning/tree/main) This project aims to provide a robust and efficient implementation of the Lightning Network protocol in C#. We adhere to the Basis of Lightning Technology (BOLT) specifications to ensure compatibility with other Lightning Network implementations.
