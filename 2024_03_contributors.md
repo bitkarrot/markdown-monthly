@@ -8,8 +8,8 @@ In no particular order, let's celebrate all the member contributions from Plebne
 # Member Contributions for March 2024
 
 ### XenonFun / rsafier
-- Worked on [LNUnit is a unit-testing framework for Bitcoin Lightning network systems. It provides an easy-to-use interface for developers to write tests that check the functionality and performance of their Lightning network applications](https://github.com/nbd-wtf/LNUnit)
-- Worked on [This project aims to provide a robust and efficient implementation of the Lightning Network protocol in C#. We adhere to the Basis of Lightning Technology (BOLT) specifications to ensure compatibility with other Lightning Network implementations.](https://github.com/ipms-io/nlightning/tree/main)
+- Worked on [LNUnit](https://github.com/nbd-wtf/LNUnit) is a unit-testing framework for Bitcoin Lightning network systems. It provides an easy-to-use interface for developers to write tests that check the functionality and performance of their Lightning network applications. 
+- Worked on [nlightning](https://github.com/ipms-io/nlightning/tree/main) This project aims to provide a robust and efficient implementation of the Lightning Network protocol in C#. We adhere to the Basis of Lightning Technology (BOLT) specifications to ensure compatibility with other Lightning Network implementations.
 
 ### Randy McMillian 
 - Worked on [RandyMcMillan / morse_code](https://github.com/RandyMcMillan/morse_code)
