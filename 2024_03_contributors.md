@@ -92,3 +92,5 @@ In no particular order, let's celebrate all the member contributions from Plebne
 - Reviewed [3 Pull Requests Reviewed](https://github.com/bitcoinj/secp256k1-jdk)
 - Reviewed [1 Pull Request Reviewed](https://github.com/bitcoinj/bitcoinj)
 
+### Surfersol
+- collected open source contributions and compiled this list.
