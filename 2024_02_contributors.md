@@ -4,8 +4,6 @@
 
 In no particular order, let's celebrate all the member contributions from Plebnet.DEV to open source software! Contributions are collected by a moderator in the discord every month so be sure to reach out to them before the monthly meetup if you would like to be mentioned on this monthly blog post. If you contributed and we missed it, please make a pull request and we'll be sure to include it here!
 
-# Member Contributions for February 2024
-
 ### Sync
 - The road to a A Free Bitcoin only selfhosted Wordpress & Shopify alternative.
 - With the lessons learned from Flamewerk (https://production.flamewerk.com/) Cypher.space is being slowly rebuild into a bitcoin only flat file CMS. The goals are Zero costs for hosting, Flexibility and client-side implementations. Join our build adventure on https://cypher.space/ or visit our GitHub for more info
