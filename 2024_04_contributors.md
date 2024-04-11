@@ -10,10 +10,15 @@ pull request and we'll be sure to include it here!
 
 ### Tony 
 - migrate existing plebnet.dev website to new astrov4 [web]((https://github.com/plebnet-dev/web)
+- update plebnet events page for April [PR](https://github.com/plebnet-dev/website/pull/123)
 
 ### Bitkarrot
-- help migrate existing website to new astrov4 plebnet [web](https://github.com/plebnet-dev/web)
-- refactor [BountyAlertsDiscord](https://github.com/plebnet-dev/BountyAlertsDiscord) repo for stakwork automated new bounty posts. 
+- help migrate existing website to new astrov4 plebnet [web](https://github.com/plebnet-dev/web), merge the two sites
+- refactor [BountyAlertsDiscord](https://github.com/plebnet-dev/BountyAlertsDiscord) repo for stakwork automated new bounty posts.
+
+### Randy McMillan
+- Git Interactive Rebase Workshop (April 26)
+
 
 ### Surfersol
 - collected open source contributions and compiled this list.
