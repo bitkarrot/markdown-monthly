@@ -76,7 +76,7 @@ pull request and we'll be sure to include it here!
 - Worked on [commits on Nostr Python Workshop](https://github.com/PastaGringo/NostrPythonWorkshop)
 - Worked on [commits on CallSTR](https://github.com/PastaGringo/CallSTR)
 
-- ### Sync 
+### Sync 
 - Worked on [commit of Cypher Init Template](https://github.com/cypher-space/Template)
 - Worked on [commit of BTCart-Donate-Lightning](https://github.com/cypher-space/BTCart-Donate-Lightning)
 - Worked on [commit of Create Cypher Nuxt3 Template](https://github.com/cypher-space/create-cypher)
