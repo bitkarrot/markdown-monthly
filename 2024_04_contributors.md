@@ -100,9 +100,6 @@ pull request and we'll be sure to include it here!
 - Merged [Fix docker-compose yaml syntax](https://github.com/planetary-social/ansible-scripts/pull/91) associates with [Ansible automation scripts used at Planetary](https://github.com/planetary-social/ansible-scripts)
 
 ### Surfersol
-collected open source contributions and compiled this list.
-
-### Surfersol
 - collected open source contributions and compiled this list.
 
 
