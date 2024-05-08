@@ -12,3 +12,12 @@ pull request and we'll be sure to include it here!
 - update testnet lnbits and core lightning node to latest releases. 
 - released phoenixd and lnbits docker compose [repo](https://github.com/bitkarrot/lnbits-phoenixd)
 - [pylnbits](https://github.com/lightningames/pylnbits) maintenance work.
+
+### Sync 
+- Removed old YieldMonitor fiat ticker
+- Added a contact page 
+- Create UI for Initial Setup Screen
+- PWA ready
+- NDK in the build config
+- Added Cattegories & Variations on products  
+- Small bug fixes
