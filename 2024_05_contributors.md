@@ -21,3 +21,6 @@ pull request and we'll be sure to include it here!
 - NDK in the build config
 - Added Cattegories & Variations on products  
 - Small bug fixes
+
+### TekkadanPlays
+- Verified his NIP-05 :)
