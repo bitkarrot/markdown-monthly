@@ -9,8 +9,8 @@ mentioned on this monthly blog post. If you contributed and we missed it, please
 pull request and we'll be sure to include it here!
 
 ### Bitkarrot
-- update testnet lnbits and core lightning node to latest releases. 
-- released phoenixd and lnbits docker compose [repo](https://github.com/bitkarrot/lnbits-phoenixd)
+- Updated testnet lnbits and core lightning node to latest releases. 
+- Released phoenixd and lnbits docker compose [repo](https://github.com/bitkarrot/lnbits-phoenixd)
 - [pylnbits](https://github.com/lightningames/pylnbits) maintenance work.
 
 ### Sync 
@@ -19,8 +19,11 @@ pull request and we'll be sure to include it here!
 - Create UI for Initial Setup Screen
 - PWA ready
 - NDK in the build config
-- Added Cattegories & Variations on products  
+- Added Categories & Variations on products  
 - Small bug fixes
 
 ### TekkadanPlays
-- Verified his NIP-05 :)
+- Verified NIP-05
+
+### PastaGringo
+- Published '[How to self-host your own Nostr 🦩blog 📰 with Oracolo](https://fractalized.net/how-to-self-host-your-own-nostr-blog-with-oracolo/)'
