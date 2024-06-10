@@ -9,4 +9,4 @@ mentioned on this monthly blog post. If you contributed and we missed it, please
 pull request and we'll be sure to include it here!
 
 TekkadanPlays
-- Published [guide for installing relay.tools](https://github.com/TekkadanPlays/docs/blob/master/README.md)
+- Published [guide for installing relay.tools](https://github.com/relaytools/docs/)
