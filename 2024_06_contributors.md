@@ -10,3 +10,7 @@ pull request and we'll be sure to include it here!
 
 TekkadanPlays
 - Published [guide for installing relay.tools](https://github.com/relaytools/docs/)
+
+Bitkarrot 
+- releases alpha version of [hivetalk.org](https://hivetalk.org)
+- Sample code for nostr login [https://github.com/bitkarrot/npublogin](https://github.com/bitkarrot/npublogin)
