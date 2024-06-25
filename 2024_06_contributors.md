@@ -14,3 +14,4 @@ TekkadanPlays
 Bitkarrot 
 - releases alpha version of [hivetalk.org](https://hivetalk.org)
 - Sample code for nostr login [https://github.com/bitkarrot/npublogin](https://github.com/bitkarrot/npublogin)
+- On sabbatical from plebnet.dev until further notice. 
