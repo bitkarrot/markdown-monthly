@@ -20,15 +20,15 @@
 - [Github](https://github.com/amsalmeron)
 - [Calendar](https://cal.com/tony21)
 
-  ## Randy McMillan
-  - Bitcoin Core Developer
-  - [Github](https://github.com/RandyMcMillan)
-  - [Calendar](https://cal.com/bitcoincore.dev)
- 
-  ## Sam
-  - Fullstack development
-  - [Github](https://github.com/samthomson)
-  - [Calendar](https://cal.com/sam-123456789)
- 
- 
+## Randy McMillan
+- Bitcoin Core Developer
+- [Github](https://github.com/RandyMcMillan)
+- [Calendar](https://cal.com/bitcoincore.dev)
+
+## Sam Thomson
+- Fullstack development
+- [Github](https://github.com/samthomson)
+- [Calendar](https://cal.com/sam-123456789)
+
+
   
